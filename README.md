@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SzJackiewicz
-- 👀 I’m interested in beeing a Front-end Developer
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 👀 I’m interested in beeing a Full-Stack Developer
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React and Node
 - 📫 How to reach me: sz.jackiewicz@gmail.com
 
 <!---
