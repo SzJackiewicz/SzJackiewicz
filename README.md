@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SzJackiewicz
-- 👀 I’m interested in beeing a Full-Stack Developer
+- 💻 Full-Stack Developer
 
 <!---
 SzJackiewicz/SzJackiewicz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
